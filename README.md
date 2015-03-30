@@ -353,7 +353,7 @@ The output must conform to the following grammar:
      | (Call (func <expr>)
              (args <expr>*)
              (keywords <keyword>*)
-             (starags <expr?>)
+             (starargs <expr?>)
              (kwargs <expr?>))
 
      | (Num <number>)
